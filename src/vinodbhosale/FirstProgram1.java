@@ -1,11 +1,11 @@
 package vinodbhosale;
 
-public class FirstProgram {
+public class FirstProgram1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("Hi..Vinod Bhosale");
+		System.out.println("Hi..Vinod Bhosale at persistent");
 
 	}
 
